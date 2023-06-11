@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="png">
+    <file>tk.ico</file>
+  </qresource>
+</RCC>
